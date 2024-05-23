@@ -1,2 +1,2 @@
-# Descovery
+# Discovery
  
